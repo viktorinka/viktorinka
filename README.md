@@ -2,7 +2,6 @@
 # I'm Viktoriya and QA Automation engineer 
 
 ## About Me:
-
 - 👩‍💻 **Experience**: In testing for more than 4 years, I specialize in testing websites and APIs
 - 🕹️ **Manual Testing**: I pay attention to user scenarios and product requirements
 - 🤖 **Automation Testing**: I use Java and selenide to solve automation problems
@@ -11,7 +10,6 @@
 - 🌍 **Languages**: Russian**, English (A2)
 
 ## Languages & Tools I use:
-
 <img src="icons/java-logo.svg" title="Java" alt="Java" width="40" height="40"/>
 <img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
 <img src="icons/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -41,7 +39,6 @@
 </p>
 
 ## Contacts for communication
-
    <a href="mailto:dzherommo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
