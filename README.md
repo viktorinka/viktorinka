@@ -7,28 +7,26 @@
 - 🤖 **Automation Testing**: I use Java and selenide to solve automation problems
 - 🤝 **international cooperation**: I thrive in diverse multinational environments, collaborating effectively with teams of varied backgrounds and perspectives
 - 🌱 **Skills development**: I enjoy learning new technologies and tools to improve my professional skills
-- 🌍 **Languages**: Russian**, English (A2)
+- 🌍 **Languages**: Russian, English (A2)
 
 ## Languages & Tools I use:
-<p  align="center">
-<code><img src="icons/java-logo.svg" title="Java" alt="Java" width="40" height="40"/></code>
-<code><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></code>
-<code><img src="icons/git-logo.svg" title="Git" alt="Git" width="40" height="40"/></code>
-<code><img src="icons/selenide-logo.svg" title="Selenide" alt="Selenide" width="40" height="40"/></code>
-<code><img src="icons/junit5-logo.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/></code>
-<code><img src="icons/gradle-logo.svg" title="Gradle" alt="Gradle" width="40" height="40"/></code>
-<code><img src="icons/rest-assured-logo.svg" title="REST Assured" alt="REST Assured" width="40" height="40"/></code>
-<code><img src="icons/jenkins-logo.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/></code>
-<code><img src="icons/idea-logo.svg" title="Idea" alt="Idea" width="40" height="40"/></code>
-<code><img src="icons/browserstack-logo.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/></code>
-<code><img src="icons/allure-report-logo.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/></code>
-<code><img src="icons/allure-ee-logo.svg" title="Allure Testops" alt="REST Assured" width="40" height="40"/></code>
-</p>
+<code><img src="icons/java-logo.svg" title="Java" alt="Java" width="50" height="50"/></code>
+<code><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/></code>
+<code><img src="icons/git-logo.svg" title="Git" alt="Git" width="50" height="50"/></code>
+<code><img src="icons/selenide-logo.svg" title="Selenide" alt="Selenide" width="50" height="50"/></code>
+<code><img src="icons/junit5-logo.svg" title="JUnit5" alt="JUnit5" width="50" height="50"/></code>
+<code><img src="icons/gradle-logo.svg" title="Gradle" alt="Gradle" width="50" height="50"/></code>
+<code><img src="icons/rest-assured-logo.svg" title="REST Assured" alt="REST Assured" width="50" height="50"/></code>
+<code><img src="icons/jenkins-logo.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/></code>
+<code><img src="icons/idea-logo.svg" title="Idea" alt="Idea" width="50" height="50"/></code>
+<code><img src="icons/browserstack-logo.svg" title="Browserstack" alt="Browserstack" width="50" height="50"/></code>
+<code><img src="icons/allure-report-logo.svg" title="Allure Report" alt="Allure Report" width="50" height="50"/></code>
+<code><img src="icons/allure-ee-logo.svg" title="Allure Testops" alt="REST Assured" width="50" height="50"/></code>
 
 ## My Projects
 | Year | Repository                                                                       | 
 |------|----------------------------------------------------------------------------------|
-| 2024 | [Pinterest project UI](https://github.com/viktorinka/pinterest_project_ui) </div>      |
+| 2024 | [Pinterest project UI](https://github.com/viktorinka/pinterest_project_ui)    |
 | 2024 | [Pinterest project Mobile](https://github.com/viktorinka/pinterest_project_mobile) |
 | 2024 | [Petstore project API](https://github.com/viktorinka/petstore_project_api)   |                                                                                |
 
@@ -41,10 +39,10 @@
 </p>
 
 ## Contacts for communication
-   <a href="mailto:dzherommo@gmail.com">
+<code><a href="mailto:dzherommo@gmail.com"></code>
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://t.me/dzherommo">
+<code><a href="https://t.me/dzherommo"></code>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
