@@ -10,18 +10,20 @@
 - 🌍 **Languages**: Russian**, English (A2)
 
 ## Languages & Tools I use:
-<img src="icons/java-logo.svg" title="Java" alt="Java" width="40" height="40"/>
-<img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-<img src="icons/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
-<img src="icons/selenide-logo.svg" title="Selenide" alt="Selenide" width="40" height="40"/>
-<img src="icons/junit5-logo.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/>
-<img src="icons/gradle-logo.svg" title="Gradle" alt="Gradle" width="40" height="40"/>
-<img src="icons/rest-assured-logo.svg" title="REST Assured" alt="REST Assured" width="40" height="40"/>
-<img src="icons/jenkins-logo.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
-<img src="icons/idea-logo.svg" title="Idea" alt="Idea" width="40" height="40"/>
-<img src="icons/browserstack-logo.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>
-<img src="icons/allure-report-logo.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>
-<img src="icons/allure-ee-logo.svg" title="Allure Testops" alt="REST Assured" width="40" height="40"/>
+<p  align="center">
+<code><img src="icons/java-logo.svg" title="Java" alt="Java" width="40" height="40"/></code>
+<code><img src="icons/postgreSQL.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/></code>
+<code><img src="icons/git-logo.svg" title="Git" alt="Git" width="40" height="40"/></code>
+<code><img src="icons/selenide-logo.svg" title="Selenide" alt="Selenide" width="40" height="40"/></code>
+<code><img src="icons/junit5-logo.svg" title="JUnit5" alt="JUnit5" width="40" height="40"/></code>
+<code><img src="icons/gradle-logo.svg" title="Gradle" alt="Gradle" width="40" height="40"/></code>
+<code><img src="icons/rest-assured-logo.svg" title="REST Assured" alt="REST Assured" width="40" height="40"/></code>
+<code><img src="icons/jenkins-logo.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/></code>
+<code><img src="icons/idea-logo.svg" title="Idea" alt="Idea" width="40" height="40"/></code>
+<code><img src="icons/browserstack-logo.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/></code>
+<code><img src="icons/allure-report-logo.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/></code>
+<code><img src="icons/allure-ee-logo.svg" title="Allure Testops" alt="REST Assured" width="40" height="40"/></code>
+</p>
 
 ## My Projects
 | Year | Repository                                                                       | 
