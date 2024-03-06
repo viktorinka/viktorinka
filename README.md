@@ -30,6 +30,9 @@
 | 2024 | [Pinterest project Mobile](https://github.com/viktorinka/pinterest_project_mobile) |
 | 2024 | [Petstore project API](https://github.com/viktorinka/petstore_project_api)   |                                                                                |
 
+| [Pinterest project UI](https://github.com/viktorinka/pinterest_project_ui)| [Pinterest project Mobile](https://github.com/viktorinka/pinterest_project_mobile)  | [Petstore project API](https://github.com/viktorinka/petstore_project_api) |
+|------|------------|------|
+
 ## My Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viktorinka&theme=dracula" alt="Profile Details">
@@ -39,10 +42,10 @@
 </p>
 
 ## Contacts for communication
-<code><a href="mailto:dzherommo@gmail.com"></code>
+<a href="mailto:dzherommo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-<code><a href="https://t.me/dzherommo"></code>
+<a href="https://t.me/dzherommo">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
